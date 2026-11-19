@@ -7,7 +7,7 @@
 
                 <div class="about-main-image">
                     <img
-                        src="/assets/images/services/1.png"
+                        src="assets/images/services/1.png"
                         alt="Responsible vehicle recycling"
                         loading="lazy"
                     >

@@ -1054,5 +1054,50 @@
         }
     }
 
-    
+    /* FIX MOBILE BRAND LOGO & NAME */
+@media (max-width: 767px) {
+
+    .zwm-navigation-inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .zwm-navigation-logo {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-shrink: 0;
+        min-width: max-content;
+    }
+
+    .zwm-navigation-logo img {
+        width: 46px !important;
+        height: 46px !important;
+        flex-shrink: 0;
+    }
+
+    .zwm-logo-text {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        white-space: nowrap;
+    }
+
+    .zwm-logo-text strong {
+        font-size: 17px !important;
+        line-height: 1.1;
+        white-space: nowrap;
+    }
+
+    .zwm-logo-text small {
+        font-size: 9px !important;
+        letter-spacing: 2px;
+        white-space: nowrap;
+    }
+
+    .zwm-mobile-actions {
+        flex-shrink: 0;
+    }
+}
 </style>

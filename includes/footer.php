@@ -149,7 +149,7 @@
 <div class="zwm-floating-contact">
 
     <!-- WhatsApp -->
-    <a href="https://wa.me/919999999999" class="zwm-float-btn zwm-float-whatsapp" target="_blank"
+    <a href="https://wa.me/918750407784" class="zwm-float-btn zwm-float-whatsapp" target="_blank"
         rel="noopener noreferrer">
 
         <svg viewBox="0 0 24 24" class="zwm-contact-svg">
@@ -159,7 +159,7 @@
     </a>
 
     <!-- Call -->
-    <a href="tel:+919999999999" class="zwm-float-btn zwm-float-call">
+    <a href="tel:+918750407784" class="zwm-float-btn zwm-float-call">
 
         <svg viewBox="0 0 24 24" class="zwm-contact-svg">
             <path fill="currentColor"
