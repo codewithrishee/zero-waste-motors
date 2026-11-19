@@ -1,0 +1,10 @@
+# Local configuration and uploaded content
+config/local.php
+.env
+ManageAdmin/uploads/*
+!ManageAdmin/uploads/.gitkeep
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/

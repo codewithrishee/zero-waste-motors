@@ -1,0 +1,1 @@
+<?php // Statistics section placeholder. ?>

@@ -1,0 +1,1 @@
+<?php // Admin sidebar placeholder. ?>

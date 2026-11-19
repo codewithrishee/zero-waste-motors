@@ -1,0 +1,1 @@
+-- Zero Waste Motors database schema will be created when we build the enquiry/admin modules.
